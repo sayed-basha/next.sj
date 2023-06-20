@@ -51,7 +51,7 @@ Now change the code as per your requirement, and wait for code to build and depl
 # Application url
 https://dev.d1qxsraqi0agz9.amplifyapp.com/
 # github url
-https://github.com/sayed-basha/next.sj/edit/dev
+
 
 
 
