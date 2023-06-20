@@ -48,5 +48,10 @@ After CD/CD image o/p  "![github-2](https://github.com/sayed-basha/next.sj/asset
 
 # step 7:- 
 Now change the code as per your requirement, and wait for code to build and deploy, now the new changes will reflects on the application.
+# Application url
+https://dev.d1qxsraqi0agz9.amplifyapp.com/
+# github url
+https://github.com/sayed-basha/next.sj/edit/dev
+
 
 
