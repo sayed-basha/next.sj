@@ -9,14 +9,14 @@ export function TingaButtons() {
           logger.debug(loggerText)
         }}
       >
-        Debug
+        Debugged
       </button>
       <button
         onClick={() => {
           logger.warn(loggerText)
         }}
       >
-        Warn
+        Warned
       </button>
       <button
         onClick={() => {
