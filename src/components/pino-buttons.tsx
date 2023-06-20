@@ -10,7 +10,7 @@ export function PinoButtons() {
           logger.info(loggerText)
         }}
       >
-        Debug
+        New changes using amplify CI/CD
       </button>
       <button
         onClick={() => {
