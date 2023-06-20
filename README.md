@@ -7,7 +7,7 @@ I created one folder in local as amplify and in that one file for terraform as "
 The code as below represents.
 resource "aws_amplify_app" "mynextjs" {
     name = "mynext.js"
-    repository = "https://github.com/sayed-basha/next.sj.git"
+    repository = "github code link"
     access_token = "github-access-token"
 
       build_spec = <<-EOT
