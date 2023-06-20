@@ -10,21 +10,21 @@ export function PinoButtons() {
           logger.info(loggerText)
         }}
       >
-        Debug
+        Debugged
       </button>
       <button
         onClick={() => {
           logger.warn(loggerText)
         }}
       >
-        Warn
+        Warned
       </button>
       <button
         onClick={() => {
           logger.error(new Error("My custom error"), loggerText)
         }}
       >
-        Error
+        Errored
       </button>
     </div>
   )
